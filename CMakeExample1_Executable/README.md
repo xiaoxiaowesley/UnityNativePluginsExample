@@ -7,8 +7,9 @@ You must install [CMake](https://cmake.org/) first.
 
 Using Terminal Access to current dirctory then execute 
 
+`cd build`
 
-`cmake .`
+`cmake ..`
 
 2. Get executable program
 
